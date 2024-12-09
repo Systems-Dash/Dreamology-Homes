@@ -3,7 +3,7 @@
 Welcome to the **Dreamology Homes** website repository. This README file provides a detailed overview of the development structure, features, and technologies used in creating a modern and responsive e-commerce platform for luxury home products.
 
 ## Website Link
-![image alt](https://github.com/Systems-Dash/Titanium-Tires/blob/main/Website%20Mockup.jpg?raw=true)
+![image alt](https://github.com/Systems-Dash/Dreamology-Homes/blob/main/System%20Dash%20Mockup.jpg)
 [Visit Dreamology Homes](https://dreamologyhomes.co.uk/)
 
 ---
